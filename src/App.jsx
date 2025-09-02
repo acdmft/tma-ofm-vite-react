@@ -19,6 +19,8 @@ const App = () => {
     console.log("No user data available.");
   }
 
+  
+
   return (
     <div>
       <Map
